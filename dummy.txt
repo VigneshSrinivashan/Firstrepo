@@ -1,0 +1,2 @@
+This text file has been created for the testing purpose and practicing git and giyhub by using this.
+Thanks!
